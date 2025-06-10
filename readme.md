@@ -26,7 +26,7 @@
 
 ```bash
 npm install
-npm start
+node index.js
 ```
 
 ## 🧰 Requisitos
